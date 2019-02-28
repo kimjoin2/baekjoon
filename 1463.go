@@ -10,7 +10,7 @@ const divide2 int32 = 2
 const divide3 int32 = 3
 const minus1 int32 = 1
 
-// main function for BEAKJOON question number 1463
+// main function for BAEKJOON question number 1463
 func main() {
 
 	// var for input integer

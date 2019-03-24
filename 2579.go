@@ -15,7 +15,7 @@ i(n) = e(n-1) + n
 e(n) = max(i(n-2), e(n-2)) + n
  */
 
-func main() {
+func run2579() {
 	inputCount := int32(0)
 	fmt.Scan(&inputCount)
 

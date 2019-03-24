@@ -3,7 +3,7 @@ package main
 
 import "fmt"
 
-func main() {
+func run9095() {
 	inputCount := int32(0)
 	fmt.Scan(&inputCount)
 

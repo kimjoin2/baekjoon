@@ -15,7 +15,7 @@ cacheR, cacheG, cacheB 에 저장
 cacheR[n] = max(cacheG[n-1], cacheB[n-1]) + R(n)
  */
 
-func main() {
+func run1149() {
 	inputCount := int32(0)
 	fmt.Scan(&inputCount)
 

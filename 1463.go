@@ -11,7 +11,7 @@ const divide3 int32 = 3
 const minus1 int32 = 1
 
 // main function for BAEKJOON question number 1463
-func main() {
+func run1463() {
 
 	// var for input integer
 	var input int32

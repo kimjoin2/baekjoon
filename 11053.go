@@ -53,6 +53,3 @@ func run11053Func(inputCount int, stdInString string) int {
 	return result
 }
 
-func main() {
-	run11053()
-}
